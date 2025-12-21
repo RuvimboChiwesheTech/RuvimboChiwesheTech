@@ -1,4 +1,4 @@
-# Hi, I'm Ruvimbo 👋
+# Hi, I'm Ruvimbo Chiweshe.
 
 **I am an emerging technology professional** with interests in **analytics, machine learning, digital health, and IT governance**.
 
