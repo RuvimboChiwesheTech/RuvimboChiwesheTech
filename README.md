@@ -33,4 +33,4 @@ I’m driven by curiosity, continuous learning, and a desire to build solutions 
 ### Connect
 - LinkedIn: www.linkedin.com/in/ruvimbo-chiweshe-883125143
 
-Feel free to explore my repositories or reach out if you'd like to collaborate or discuss tech, analytics, or digital health.
+Feel free to explore my repositories or reach out to discuss tech, analytics, digital health, or my growing interest in cybersecurity and IT governance through my ISACA membership.
