@@ -1,6 +1,6 @@
 # Hi, I'm Ruvimbo Chiweshe.
 
-**I am an emerging technology professional** with interests in **analytics, machine learning, digital health, and IT governance**.
+**I am an emerging computer technology professional** with interests in **analytics, machine learning, digital health, and IT governance**.
 
 I’m driven by curiosity, continuous learning, and a desire to build solutions that create real impact across technology and healthcare.
 
