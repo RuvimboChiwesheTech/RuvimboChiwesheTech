@@ -10,7 +10,7 @@ I’m driven by curiosity, continuous learning, and a desire to build solutions 
 - Machine learning and CNN-based projects  
 - Data analytics and visualization  
 - Exploring digital health technologies  
-- Strengthening IT governance and ISACA-aligned skills  
+- Strengthening IT governance aligned skills  
 - Applied linear algebra as part of my MSc Computing (Data Science) coursework  
 
 ---
